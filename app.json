@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -31,6 +29,6 @@
         "projectId": "bfd8be15-cdc3-4020-ae74-c518b740dc3b"
       }
     },
-    "owner": "ommote"
+    "owner": "whitehawks"
   }
 }
